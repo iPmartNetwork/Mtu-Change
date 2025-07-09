@@ -3,7 +3,7 @@
 
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/iPmartNetwork/Mtu-Change/master/mtu.sh) 
+bash <(curl -Ls https://github.com/ipmartnetwork/Mtu-Change/raw/master/mtu.sh)
 
 
 ```
